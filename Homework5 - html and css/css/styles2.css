@@ -1,0 +1,42 @@
+.burger-1 {
+    width: 49%;
+    margin-top: 50px;
+    
+}
+
+.passion-burger-img {
+    float: left;
+    width: 300px;
+}
+
+.passion-burger-h3 {
+    text-align: center;
+    font-size: 50px;
+    font-family: "Barlow";
+}
+
+.passion-burger-p {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.burgers-2 {
+    width: 49%;
+    margin-top: 50px;
+    
+}
+.cheeseburger-img {
+    float: left;
+    width: 300px;
+}
+
+.cheeseburger-h3 {
+    text-align: center;
+    font-size: 50px;
+    font-family: "Barlow";
+}
+
+.cheeseburger-p {
+    margin-top: 20px;
+    font-size: 20px;
+}

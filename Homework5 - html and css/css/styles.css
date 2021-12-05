@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Genos:wght@100&family=Montserrat:wght@500&family=Pacifico&family=Yanone+Kaffeesatz:wght@700&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    height: 100px;
+    background-color: rgb(31, 31, 31);
+    padding: 30px 10%;
+}
+
+.logo {
+    cursor: pointer;
+    font-size: 50px;
+    font-family: "Pacifico";
+    color: white;
+    padding-bottom: 20px;
+}
+
+.nav-links {
+    list-style-type: none;
+}
+
+.nav-links li {
+    display: inline-block;
+    padding: 0px 20px;
+    color: white;
+}
+
+.nav-links li a {
+    transition: all 0.3s ease 0s;
+    color: white;
+    font-family: "Montserrat";
+}
+
+.nav-links li a:hover {
+    color: blue;
+}
+
+.search-area {
+    width: 330px;
+}
+
+.btn:hover {
+    background-color: transparent;
+}
+
+body {
+    background-color: tomato;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 30px;
+    font-family: "Montserrat";
+}
+
+.burgers-first-line {
+    padding-top: 30px;
+}
+
+.burgers-first-line div {
+    width: 49%;
+    display: inline-block; 
+}
+
+.passion-burger-img {
+    float: left;
+    width: 300px;
+    height: 300px;
+}
+
+.passion-burger-img:hover {
+    transform: scale(150%);
+}
+
+.passion-burger-h3 {
+    text-align: center;
+    font-size: 50px;
+    font-family: "Barlow";
+}
+
+.passion-burger-p {
+    padding-top: 20px;
+    font-size: 20px;
+    font-family: "Yanone Kaffeesatz";
+}
+
+.cheeseburger-img {
+    float: left;
+    width: 300px;
+    height: 300px;
+}
+
+.cheeseburger-img:hover {
+    transform: scale(150%);
+}
+
+.cheeseburger-h3 {
+    text-align: center;
+    font-size: 50px;
+    font-family: "Barlow";
+}
+
+.cheeseburger-p {
+    padding-top: 20px;
+    font-size: 20px;
+    font-family: "Yanone Kaffeesatz";
+}
+
+.burgers-second-line div {
+    width: 49%;
+    display: inline-block;
+    padding-top: 30px;
+}
+
+.double-cheeseburger-img {
+    float: left;
+    width: 300px;
+    height: 300px;
+}
+
+.double-cheeseburger-img:hover {
+    transform: scale(150%);
+}
+
+.double-cheeseburger-h3 {
+    text-align: center;
+    font-size: 50px;
+    font-family: "Barlow";
+}
+
+.double-cheeseburger-p {
+    padding-top: 20px;
+    font-size: 20px;
+    font-family: "Yanone Kaffeesatz";
+}
+
+.crispy-chicken-img {
+    float: left;
+    width: 300px;
+    height: 300px;
+}
+
+.crispy-chicken-img:hover {
+    transform: scale(150%);
+}
+
+.crispy-chicken-h3 {
+    text-align: center;
+    font-size: 50px;
+    font-family: "Barlow";
+}
+
+.crispy-chicken-p {
+    padding-top: 20px;
+    font-size: 20px;
+    font-family: "Yanone Kaffeesatz";
+}
+
+footer {
+    background-color: rgb(31, 31, 31);
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    padding: 13px;
+    font-family: "Genos";
+    color: white;
+}
