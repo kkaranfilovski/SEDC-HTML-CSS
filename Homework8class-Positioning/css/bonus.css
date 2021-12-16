@@ -1,0 +1,174 @@
+* {
+    box-sizing: border-box;
+}
+
+div {
+    border: 5px solid black;
+    position: absolute;
+}
+
+.div1 {
+    width: 150px;
+    height: 50px;
+    border-top: none;
+    border-left: none;
+    background-color: seashell;
+}
+
+.div2 {
+    left: 158px;
+    width: 200px;
+    height: 50px;
+    border-top: none;
+    background-color: seashell;
+}
+
+.div3 {
+    left: 358px;
+    width: 180px;
+    height: 50px;
+    border-top: none;
+    background-color: orange;
+}
+
+.div4 {
+    top: 58px;
+    width: 75px;
+    height: 150px;
+    border-left: none;
+    background-color: whitesmoke;
+}
+
+.div5 {
+    left: 83px;
+    top: 58px;
+    width: 275px;
+    height: 300px;
+    background-color: red;
+}
+
+.div6 {
+    left: 358px;
+    top: 58px;
+    width: 180px;
+    height: 150px;
+    background-color: orange;
+}
+
+.div7 {
+    top: 208px;
+    width: 75px;
+    height: 225px;
+    border-left: none;
+    background-color: seashell;
+}
+
+.div8 {
+    top: 208px;
+    left: 358px;
+    width: 90px;
+    height: 150px;
+    background-color: seashell;
+}
+
+.div9 {
+    top: 208px;
+    left: 448px;
+    width: 90px;
+    height: 150px;
+    background-color: whitesmoke;
+}
+
+.div10 {
+    top: 358px;
+    left: 83px;
+    height: 140px;
+    width: 140px;
+    background-color: black;
+}
+
+.div11 {
+    top: 358px;
+    left: 223px;
+    width: 135px;
+    height: 90px;
+    background-color: violet;
+}
+
+.div12 {
+    top: 358px;
+    left: 358px;
+    width: 180px;
+    height: 90px;
+    background-color: grey;
+}
+
+.div13 {
+   left: 538px;
+   width: 30px;
+   height: 440px;
+   border-top: none;
+   border-right: none;
+   background-color: whitesmoke;
+}
+
+.div14 {
+    top: 433px;
+    width: 75px;
+    height: 120px;
+    border-left: none;
+    border-bottom: none;
+    background-color: orange;  
+}
+
+.div15 {
+    top: 498px;
+    left: 83px;
+    width: 140px;
+    height: 55px;
+    border-bottom: none;
+    background-color: thistle;
+}
+
+.div16 {
+    top: 448px;
+    left: 223px;
+    width: 135px;
+    height: 50px;
+    background-color: thistle;
+}
+
+.div17 {
+    top: 448px;
+    left: 358px;  
+    width: 180px;
+    height: 80px;
+    background-color: blue;
+}
+
+.div18 {
+    top: 498px;
+    left: 223px;
+    width: 135px;
+    height: 30px;
+    background-color: black;
+}
+
+.div19 {
+    top: 528px;
+    left: 223px;
+    width: 315px;
+    height: 25px;
+    border-bottom: none;
+    background-color: thistle;
+}
+
+.div20 {
+    top: 448px;
+    left: 538px;
+    width: 30px;
+    height: 105px;
+    border-right: none;
+    border-bottom: none;
+    background-color: red;
+}
